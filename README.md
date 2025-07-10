@@ -6,7 +6,7 @@
 
 <hr/>
 
-<h2>🧾 Project Summary</h2>
+<h2>🧾 Summary</h2>
 
 <p>
   In this project, I worked within the Cortex XSOAR platform to manage and enrich threat intelligence data, automate incident response workflows, and generate actionable reports. By leveraging XSOAR's CLI, war room, and automated playbooks, I simulated a real-world SOC operation—from the detection of a malicious indicator to its investigation, remediation, and reporting. The exercise demonstrated the powerful orchestration capabilities of Cortex XSOAR in reducing response time and human error.
